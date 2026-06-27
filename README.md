@@ -1,5 +1,11 @@
 # dotfiles — 새 PC 부트스트랩 진입점 (public)
 
+> 🚀 **새 PC 한 줄 세팅** — Claude Code 에 그대로 붙여넣기:
+>
+> ```
+> github.com/ashhan8904/dotfiles-bootstrap 보고 환경세팅해
+> ```
+
 > ⚠️ 이 repo 는 **진입점(초인종)** 일 뿐 **비밀 정보 0**. 실제 환경·키·설정은 모두 private repo
 > [`ashhan8904/dotfiles-private`](https://github.com/ashhan8904/dotfiles-private) 안에 있으며, 접근엔 GitHub 인증이 필요합니다.
 
